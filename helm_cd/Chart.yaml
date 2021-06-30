@@ -6,7 +6,6 @@ description: Install nginx deployment
 
 keywords:
 - nginx
-- alpine
 
 version: 1.0.0
 
